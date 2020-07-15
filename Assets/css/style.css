@@ -1,0 +1,143 @@
+body {
+    background-image: url(../background.png);
+}
+
+
+/* text */
+h1 {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    margin-center: 50px;
+}
+h2,h5 {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: #4aaaa5;
+}
+h5 {
+    margin-top: 40px;
+}
+
+/* line */
+
+
+/* menu bar list */
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    border-bottom: #ccc solid 1px;
+    width: 100%;
+    height: 50px;
+}
+
+/* Talia Vazquez upper left */
+.display-6 {
+    margin-center: 30px;
+    background-color: #4aaaa5;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 0px;
+    height: 50px;
+    padding: 14px;
+}
+.nav-link {
+    color: grey ;
+} 
+nav{
+    padding: 0px;
+
+}
+
+/* images */
+#profile-pic {
+    max-width: 100%;
+    margin-bottom: 15px;
+    margin-right: 15px;
+    margin-center: 15px;
+    display: block;
+}
+.border {
+     padding-top: 30px;
+     margin-top: 50px;
+}
+#aboutme {
+    position: relative;;
+}
+.icon-image {
+    width: 55px;
+}
+
+/* boxes */
+.card {
+    border: none;
+}
+.card-body {
+    padding: 10px;
+    margin: 0px;
+}
+.card-img-overlay {
+    padding: 0px;
+    margin-bottom: 20px;
+}
+
+
+/* title banner for portfolio box*/
+.stretched-link {
+    position: absolute;
+    background: #4aaaa5;
+    width: 91%;
+    padding: 10px;
+    margin: 0px;
+    text-align: center;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+.card-image-top {
+    width: 100%;
+    height: 40vh;
+    object-fit: cover;
+}
+
+.form-box {
+    width: 75%;
+}
+
+
+
+
+/* footer */
+.footer-section {
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0vw;
+    height: 28px;
+    clear: both;
+    border-top: 5px #4aaaa5 solid;
+}
+#social-media {
+    width: 30%;
+    margin: 0 auto;
+    margin-bottom: 25px;
+    text-align: center;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+  }
+
+ 
+
+@media screen and (max-width: 767px){
+    nav {
+        margin: 0 auto;
+    }
+    .card {
+        width: 100%;
+        margin-center: 2px;
+    }
+    #about {
+        margin-center: 2px;
+    }
+}
