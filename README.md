@@ -19,7 +19,6 @@ Use this code to build a quick Portfolio to showcase your pieces.
 ## Credits
 Credit to my Team.
 
-
-
 https://taliavazquez.github.io/hw-02/
+
 https://github.com/taliavazquez/hw-02
