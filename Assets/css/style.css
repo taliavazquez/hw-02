@@ -10,15 +10,14 @@ body {
 }
 
 div.col-md-7 {
-  padding: 40px 30px 40px 30px;
-  border: 50px;
-  margin: 30px 30px 30px 30px;
+  padding: 0px 30px 40px 30px;
+  margin: 0px 30px 30px 30px;
   position: center;
 }
 
 /* text */
 h1 {
-  margin: center;
+  margin-bottom: 1rem;
 }
 h2,
 h5 {
@@ -61,7 +60,7 @@ nav {
 /* images */
 #profile-pic {
   max-width: 100%;
-  display: block;
+  display: flex;
 }
 .border {
   padding-top: 30px;
