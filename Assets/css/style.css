@@ -16,9 +16,6 @@ h5 {
     margin-top: 40px;
 }
 
-/* line */
-
-
 /* menu bar list */
 .navbar {
     list-style-type: none;
@@ -62,9 +59,15 @@ nav{
 #aboutme {
     position: relative;;
 }
-.icon-image {
-    height: 45px;
+
+#icon-resume {
+    height: 40px;
 }
+
+.icon-image {
+    width: 55px;
+}
+
 
 /* boxes */
 .card {
