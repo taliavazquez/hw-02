@@ -1,5 +1,8 @@
 body {
     background-image: url(../background.png);
+    object-fit: cover;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 
