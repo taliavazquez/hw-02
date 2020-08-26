@@ -1,18 +1,22 @@
 ## Project title
 Portfolio
 
-## Code style
-Standard style was used in this code. 
-
 ## Features
 Some of the features used in this website were floating boxes, flexcode, bootstrap and limited jquery.
 
-## How to use?
-Use this code to build a quick Portfolio to showcase your pieces.
+## Style
+
+HTML & CSS
 
 ## Credits
-Credit to my Team.
+My Study Team 
 
-https://taliavazquez.github.io/portfolio/
+## Project GitHub Repo
 
-https://github.com/taliavazquez/hw-02
+<a href="https://github.com/taliavazquez/hw-02"><bold>Repo</bold></a>
+
+## Project Website
+
+<a href="https://taliavazquez.github.io/portfolio/"><bold>DEMPLOYED SITE</bold></a>
+
+© 2020 Talia Vazquez
