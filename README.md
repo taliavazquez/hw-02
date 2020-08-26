@@ -1,11 +1,5 @@
-
-# hw-02
-Responsive website
 ## Project title
 Portfolio
-
-## Motivation
-This layout was created using an example provided by a client.
 
 ## Code style
 Standard style was used in this code. 
