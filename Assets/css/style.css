@@ -5,6 +5,9 @@ body {
     background-attachment: fixed;
 }
 
+div.col-md-7 {
+    Padding: 30px 15px 40px 50px;
+}
 
 /* text */
 h1 {
