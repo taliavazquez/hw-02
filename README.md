@@ -1,4 +1,4 @@
-## Portfolio
+# Portfolio
 
 ## Features
 Features used in this website were floating boxes, flexcode, bootstrap and limited jquery.
