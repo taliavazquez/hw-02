@@ -1,8 +1,7 @@
-## Project title
-Portfolio
+## Portfolio
 
 ## Features
-Some of the features used in this website were floating boxes, flexcode, bootstrap and limited jquery.
+Features used in this website were floating boxes, flexcode, bootstrap and limited jquery.
 
 ## Style
 
