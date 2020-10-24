@@ -7,9 +7,6 @@ Features used in this website were floating boxes, flexcode, bootstrap and limit
 
 HTML & CSS
 
-## Credits
-My Study Team 
-
 ## Project GitHub Repo
 
 <a href="https://github.com/taliavazquez/hw-02"><bold>Repo</bold></a>
