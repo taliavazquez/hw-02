@@ -36,7 +36,7 @@ h5 {
   height: 50px;
 }
 a:hover {
-  background-color: white;
+  background-color: black;
   color: #2E86C1;
 }
 
@@ -92,6 +92,7 @@ nav {
   position: absolute;
   background: #2E86C1;
   width: 91%;
+  height: 10%;
   padding: 10px;
   margin: 0px;
   text-align: center;
